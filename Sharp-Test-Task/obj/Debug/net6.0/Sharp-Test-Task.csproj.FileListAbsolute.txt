@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\bin\Debug\net6.0\Sharp-Test-Task.exe
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\bin\Debug\net6.0\Sharp-Test-Task.deps.json
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\bin\Debug\net6.0\Sharp-Test-Task.runtimeconfig.json
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\bin\Debug\net6.0\Sharp-Test-Task.dll
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\bin\Debug\net6.0\Sharp-Test-Task.pdb
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\obj\Debug\net6.0\Sharp-Test-Task.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\obj\Debug\net6.0\Sharp-Test-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\obj\Debug\net6.0\Sharp-Test-Task.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\obj\Debug\net6.0\Sharp-Test-Task.AssemblyInfo.cs
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\obj\Debug\net6.0\Sharp-Test-Task.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\obj\Debug\net6.0\Sharp-Test-Task.dll
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\obj\Debug\net6.0\refint\Sharp-Test-Task.dll
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\obj\Debug\net6.0\Sharp-Test-Task.pdb
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\obj\Debug\net6.0\Sharp-Test-Task.genruntimeconfig.cache
+C:\Users\user\Desktop\Sharp-Test-Task\Sharp-Test-Task\obj\Debug\net6.0\ref\Sharp-Test-Task.dll
